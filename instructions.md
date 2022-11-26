@@ -1,5 +1,5 @@
 # API Instructions
-This repo consists if 5 different APIs. They all have the same functionality but each one deals with a different dataset. \
+This repo consists of 5 different APIs. They all have the same functionality but each one deals with a different dataset. \
 Each API is titled dataset# where the # can be replaced with a number from 1-5. \
 Each number corresponds to the following dataset:
 1. https://bluebase.blob.core.windows.net/internship/df_1.csv
